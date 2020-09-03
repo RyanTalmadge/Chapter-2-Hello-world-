@@ -1,0 +1,13 @@
+# This program says hello and asks for my name
+print('Hello world!')
+print('What is your name?')
+myName = input ()
+print('It is good to meet you, ' + myName)
+print('How old are you, ' + myName )
+age = input ()
+print('Are you sure your' + age )
+Positive = input ()
+print('Ok, if your sure' + Positive )
+print (' When is your birthday ')
+month = input ()
+print(' Wow, I know someone else born on that day ')
